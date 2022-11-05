@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+ <head>
+     <meta charset="utf-8">
+     <!-- Melhoria da visualização em smartphones -->
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     
+     <!-- Popper -->
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.6/umd/popper.min.js" integrity="sha512-6UofPqm0QupIL0kzS/UIzekR73/luZdC6i/kXDbWnLOJoqwklBK6519iUnShaYceJ0y4FaiPtX/hRnV/X/xlUQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+     <!--Bootstrap -->
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.2/js/bootstrap.min.js" integrity="sha512-5BqtYqlWfJemW5+v+TZUs22uigI8tXeVah5S/1Z6qBLVO7gakAOtkOzUtgq6dsIo5c0NJdmGPs0H9I+2OHUHVQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.2/css/bootstrap.min.css" integrity="sha512-CpIKUSyh9QX2+zSdfGP+eWLx23C8Dj9/XmHjZY2uDtfkdLGo0uY12jgcnkX9vXOgYajEKb/jiw67EYm+kBf+6g==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+ </head>
+
+ <body class="container"> <!-- Contúdo da página, ajustes do Bootstrap -->
+
+   <br><br><br> <!-- Pular linha --> 
+
+   <button type="button" class="btn btn-secondary" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="top" data-bs-content="No topo">
+    Popover no topo
+   </button>
+   <button type="button" class="btn btn-secondary" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Direita">
+    Popover na direita
+   </button>
+   <button type="button" class="btn btn-secondary" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="bottom" data-bs-content="Em baixo">
+    Popover em baixo
+   </button>
+   <button type="button" class="btn btn-secondary" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="left" data-bs-content="Esquerda">
+    Popover na esquerda
+   </button>
+   
+   <!-- habilitar o Popover -->
+   <script>
+    const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
+    const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
+   </script>
+
+   <br> <!-- Pular linha --> 
+   <br>
+   <a href="https://getbootstrap.com/docs/5.2/components/popovers/" >Documentação Bootstrap 5.2 Popovers</a>
+   <br>
+   <a href="https://getbootstrap.com/docs/5.2/components/buttons/" >Documentação Bootstrap 5.2 Button</a>
+   <br>
+   <a href="https://www.w3schools.com/tags/tag_button.asp" >Documentação W3 Schools Html Button</a>
+   <br>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/button" >Documentação Developer Mozilla Html Button</a>
+   <br>
+   <a href="https://www.devmedia.com.br/html-button-aprenda-como-aplicar-a-tag-button-em-paginas-e-formularios/43495" >Documentação Devmedia Pt-Br Html Button</a>
+   <br>
+   <a href="https://www.w3schools.com/css/css3_buttons.asp" >Documentação W3 Schools Css Button</a>
+   <br>
+   <br>
+ 
+ </body>
+</html>
+
