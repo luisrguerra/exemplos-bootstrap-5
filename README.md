@@ -7,3 +7,7 @@
 [Botões agrupados](https://luisrguerra.github.io/exemplos-bootstrap-5.2/botoes/botoes-agrupados.html)
 
 [Janela flutuante](https://luisrguerra.github.io/exemplos-bootstrap-5.2/janela/janela-flutuante.html)
+
+[Popovers](https://luisrguerra.github.io/exemplos-bootstrap-5.2/janela/popovers.html)
+
+[Tooltips](https://luisrguerra.github.io/exemplos-bootstrap-5.2/janela/tooltips.html)
