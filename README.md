@@ -22,3 +22,5 @@
 [Tooltips](https://luisrguerra.github.io/exemplos-bootstrap-5.2/janela/tooltips.html)
 
 [Fontawesome (ícones)](https://luisrguerra.github.io/exemplos-bootstrap-5.2/icones/fontawesome.html)
+
+[Fontawesome (ícones)](icones/fontawesome.html)
