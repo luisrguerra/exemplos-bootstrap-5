@@ -22,3 +22,9 @@
 [Tooltips](https://luisrguerra.github.io/exemplos-bootstrap-5/janela/tooltips.html)
 
 [Fontawesome (ícones)](https://luisrguerra.github.io/exemplos-bootstrap-5/icones/fontawesome.html)
+
+## Como abrir os exemplo:
+Eles foram feitos em um arquivo html único que pode ser aberto diretamente no navegador
+
+## Como editar os arquivos
+Eles podem ser editados em qualquer IDE do mercado, eu recomendo o [Visual Studio Code](https://code.visualstudio.com/) com a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
