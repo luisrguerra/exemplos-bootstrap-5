@@ -15,6 +15,10 @@
 
 [Janela flutuante](https://luisrguerra.github.io/exemplos-bootstrap-5.2/janela/janela-flutuante.html)
 
+[Janela tela cheia](https://luisrguerra.github.io/exemplos-bootstrap-5.2/janela/janela-tela-cheia.html)
+
 [Popovers](https://luisrguerra.github.io/exemplos-bootstrap-5.2/janela/popovers.html)
 
 [Tooltips](https://luisrguerra.github.io/exemplos-bootstrap-5.2/janela/tooltips.html)
+
+[Fontawesome](https://luisrguerra.github.io/exemplos-bootstrap-5.2/icones/fontawesome.html)
