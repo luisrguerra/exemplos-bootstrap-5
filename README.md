@@ -1,4 +1,11 @@
-# Exemplos Bootstrap 5.2
+# Exemplos Bootstrap 5
+
+### Versão do Bootstrap: 5.2
+
+### Outros recursos
+- [Fontawesome (ícones)](https://fontawesome.com/)
+
+## Exemplos
  
 [Botões](https://luisrguerra.github.io/exemplos-bootstrap-5.2/botoes/botoes.html)
 
