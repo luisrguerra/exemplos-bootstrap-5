@@ -27,7 +27,7 @@
 [Tooltips](https://luisrguerra.github.io/exemplos-bootstrap-5/janela/tooltips.html)
 
 
-### [Ícones](icones/README.md)
+### [Ícones](icones/)
 
 [Ícones - Font Awesome](https://luisrguerra.github.io/exemplos-bootstrap-5/icones/fontawesome.html)
 
