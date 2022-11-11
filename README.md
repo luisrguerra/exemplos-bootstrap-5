@@ -26,7 +26,7 @@
 
 [Tooltips](https://luisrguerra.github.io/exemplos-bootstrap-5/janela/tooltips.html)
 
-[Ícones - Fontawesome](https://luisrguerra.github.io/exemplos-bootstrap-5/icones/fontawesome.html)
+[Ícones - Font Awesome](https://luisrguerra.github.io/exemplos-bootstrap-5/icones/fontawesome.html)
 
 [Ícones - Material Design (Fork da comunidade)](https://luisrguerra.github.io/exemplos-bootstrap-5/icones/materialdesignicons.html)
 
