@@ -3,7 +3,8 @@
 ### Versão do Bootstrap: 5.2
 
 ### Outros recursos
-- [Fontawesome (ícones)](https://fontawesome.com/)
+- [Fontawesome Icons](https://fontawesome.com/)
+- [Material Design Icons](https://materialdesignicons.com/)
 
 ## Exemplos
  
@@ -21,9 +22,11 @@
 
 [Tooltips](https://luisrguerra.github.io/exemplos-bootstrap-5/janela/tooltips.html)
 
-[Fontawesome (ícones)](https://luisrguerra.github.io/exemplos-bootstrap-5/icones/fontawesome.html)
+[Ícones - Fontawesome](https://luisrguerra.github.io/exemplos-bootstrap-5/icones/fontawesome.html)
 
-## Como abrir os exemplo:
+[Ícones - Material Design (Fork da comunidade)](https://luisrguerra.github.io/exemplos-bootstrap-5/icones/materialdesignicons.html)
+
+## Como abrir os exemplos:
 Eles foram feitos em um arquivo html único que pode ser aberto diretamente no navegador
 
 ## Como editar os arquivos
