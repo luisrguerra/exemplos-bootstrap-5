@@ -3,7 +3,7 @@
 ### Versão do Bootstrap: 5.2
 
 ### Outros recursos
-- [Fontawesome Icons](https://fontawesome.com/)
+- [Font Awesome Icons](https://fontawesome.com/)
 - [Material Design Icons](https://materialdesignicons.com/)
 
 ## Exemplos
