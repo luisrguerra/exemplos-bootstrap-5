@@ -16,6 +16,10 @@
 
 [Janela flutuante](https://luisrguerra.github.io/exemplos-bootstrap-5/janela/janela-flutuante.html)
 
+[Janela flutuante centralizada](https://luisrguerra.github.io/exemplos-bootstrap-5/janela/janela-flutuante-centralizada.html)
+
+[Janela flutuante com rolagem de conteúdo](https://luisrguerra.github.io/exemplos-bootstrap-5/janela/janela-flutuante-rolagem.html)
+
 [Janela tela cheia](https://luisrguerra.github.io/exemplos-bootstrap-5/janela/janela-tela-cheia.html)
 
 [Popovers](https://luisrguerra.github.io/exemplos-bootstrap-5/janela/popovers.html)
