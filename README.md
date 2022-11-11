@@ -21,7 +21,9 @@
 
 [Tooltips](https://luisrguerra.github.io/exemplos-bootstrap-5/janela/tooltips.html)
 
-[Fontawesome (ícones)](https://luisrguerra.github.io/exemplos-bootstrap-5/icones/fontawesome.html)
+[Ícones - Fontawesome](https://luisrguerra.github.io/exemplos-bootstrap-5/icones/fontawesome.html)
+
+[Ícones - Material Design (Fork da comunidade)](https://luisrguerra.github.io/exemplos-bootstrap-5/icones/materialdesignicons.html)
 
 ## Como abrir os exemplo:
 Eles foram feitos em um arquivo html único que pode ser aberto diretamente no navegador
