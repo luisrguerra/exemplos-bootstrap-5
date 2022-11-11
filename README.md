@@ -25,7 +25,7 @@
 
 [Ícones - Material Design (Fork da comunidade)](https://luisrguerra.github.io/exemplos-bootstrap-5/icones/materialdesignicons.html)
 
-## Como abrir os exemplo:
+## Como abrir os exemplos:
 Eles foram feitos em um arquivo html único que pode ser aberto diretamente no navegador
 
 ## Como editar os arquivos
