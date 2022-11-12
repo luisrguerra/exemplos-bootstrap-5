@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+ <head>
+     <meta charset="utf-8">
+     <!-- Melhoria da visualização em smartphones -->
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     
+     <!-- Carregar Chart JS -->
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js" integrity="sha512-ElRFoEQdI5Ht6kZvyzXhYG9NqjtkmlkfYk0wr6wHxU9JEHakS7UJZNeml5ALk+8IKlU6jDgMabC3vkumRokgJA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+ </head>
+
+ <body style="font-size: 2em;"> <!-- Contúdo da página, ajustes do Bootstrap -->
+
+  <canvas id="exemploGrafico" style="max-height:80%;"></canvas>
+
+  <br> <!-- Pular linha --> 
+  <a href="https://www.chartjs.org/docs/latest/" >Documentação Chart.js</a>
+  <br>
+  <br>
+ 
+ </body>
+</html>
+
+<script>
+  // dados do gráfico
+  const data = {
+    labels: ['Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado'],
+    datasets: [{
+      label: 'Label do gráfico',
+      data: [7, 6, 5, 4, 3, 2, 1],
+      backgroundColor: '	SeaGreen'
+    }]
+  };
+  // configurar
+  const config = {type: 'bar', data};
+  // Adicionar gráfico na página
+  const graficoExemlo = new Chart(
+    document.getElementById('exemploGrafico'),
+    config
+  );
+  </script>
+
