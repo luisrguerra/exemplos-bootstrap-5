@@ -39,7 +39,7 @@
 
 [Chart.js múltiplas linhas](https://luisrguerra.github.io/exemplos-bootstrap-5/graficos/chartjs-linhas.html)
 
-[Chart.js barra](https://luisrguerra.github.io/exemplos-bootstrap-5/graficos/chartjs-barras.html)
+[Chart.js barra](https://luisrguerra.github.io/exemplos-bootstrap-5/graficos/chartjs-barra.html)
 
 ## Como abrir os exemplos:
 Eles foram feitos em um arquivo html único que pode ser aberto diretamente no navegador
