@@ -22,6 +22,8 @@
 
 [Janela tela cheia](https://luisrguerra.github.io/exemplos-bootstrap-5/janela/janela-tela-cheia.html)
 
+[Janela tela cheia 2](https://luisrguerra.github.io/exemplos-bootstrap-5/janela/janela-tela-cheia-2.html)
+
 [Popovers](https://luisrguerra.github.io/exemplos-bootstrap-5/janela/popovers.html)
 
 [Tooltips](https://luisrguerra.github.io/exemplos-bootstrap-5/janela/tooltips.html)
